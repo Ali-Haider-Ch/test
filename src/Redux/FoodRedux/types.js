@@ -1,0 +1,5 @@
+export const types = {
+  FOODS_LOADING: 'SIGNUP_LOADING',
+  FOODS: 'FOODS',
+  NETWORK_ERROR: 'NETWORK_ERROR',
+};
